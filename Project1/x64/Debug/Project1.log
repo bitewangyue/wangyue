@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  SeqList.c
+D:\代码\shujujiegou\Project1\SeqList.c(111,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  test.c
+  正在生成代码...
+  Project1.vcxproj -> D:\代码\shujujiegou\x64\Debug\ SeqList.exe
